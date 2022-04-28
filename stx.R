@@ -1,10 +1,5 @@
 #this is more than a syntax file
 
-cat(
-'This is not the best syntax file in the world,
-this is just a tribute
-        |/
- /.\\ /.\\\'
-(= ^.^ =) 
-(\'\'\')(\'\'\')'
-  )
+source('fnc_catSays.R')
+msg = NULL          #fill the msg argument to make the cat say custom messages
+f_catSays(msg)         

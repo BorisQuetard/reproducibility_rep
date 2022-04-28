@@ -16,7 +16,7 @@ this is just a tribute.'
         |/
  /.\\ /.\\\'
 (= ^.^ =) 
-(\'\'\')(\'\'\')"
+(\'\') (\'\')"
   
   #make the console output with the cat function
   cat(paste0(msg, cat))
