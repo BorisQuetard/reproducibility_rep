@@ -1,4 +1,6 @@
-# function that make the cat say custom messages
+# function that make the cat say custom 
+  #argument:
+    #msg: the message the cat has to say. a default value is provided
 
 f_catSays = function (msg = NULL) {
   #default message
